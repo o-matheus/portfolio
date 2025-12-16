@@ -60,6 +60,10 @@ export const DivButtons = styled.div`
 export const GifDiv = styled.div`
   margin-top: 68px;
   display: block;
+  video {
+    width: 100%;
+    object-fit: contain;
+  }
 `
 
 export const TextWrapper = styled.div`

@@ -64,7 +64,7 @@ const ProjectDetails = ({
           </Button>
         </DivButtons>
         <GifDiv>
-          <video autoPlay muted playsInline src={gifDesktop}></video>
+          <video autoPlay loop muted playsInline src={gifDesktop}></video>
         </GifDiv>
         <TextWrapper>
           <TextContainer>
