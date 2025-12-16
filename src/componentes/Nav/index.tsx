@@ -34,7 +34,7 @@ const Nav = ({onLinkClick}: NavProps) => {
           <Link to="contato" onClick={handleClick}>Contato</Link>
         </MenuItem>
         <MenuItem>
-          <Curriculo href="../../../public/curriculo.pdf" target="_blank">
+          <Curriculo href="/curriculo.pdf" target="_blank">
             Curriculo
           </Curriculo>
         </MenuItem>
