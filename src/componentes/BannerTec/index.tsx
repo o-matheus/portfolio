@@ -1,7 +1,9 @@
+import bStrap from "../../assets/imgs/stack/bStrap.svg"
+
 import { BannerWrapper, Slider, TechIcon, TechLabel, Track, TrackItem } from './styles'
 
 export const items = [
-    {src: '../assets/imgs/stack/bStrap.svg', name: "Bootstrap"},
+    {src: bStrap, name: "Bootstrap"},
     {src: 'src/assets/imgs/stack/css.svg', name: "CSS"},
     {src: 'src/assets/imgs/stack/cy.svg', name: "Cypress"},
     {src: 'src/assets/imgs/stack/github.svg', name: "GitHub"},
