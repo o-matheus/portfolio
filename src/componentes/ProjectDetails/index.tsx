@@ -64,6 +64,7 @@ const ProjectDetails = ({
           </Button>
         </DivButtons>
         <GifDiv>
+          <video autoPlay muted playsInline src={gifDesktop}></video>
           <img src={gifDesktop} alt="Versão do site para desktop" />
         </GifDiv>
         <TextWrapper>

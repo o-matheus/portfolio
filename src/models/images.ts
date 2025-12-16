@@ -1,17 +1,17 @@
-import lContatos from '../assets/imgs/projetos/lContatos.png'
+import imcDesktop from '../assets/imgs/gif/imcDesktop.mp4'
 import lContatosDesktop from '../assets/imgs/gif/lContatosDesktop.gif'
 import lTarefasDesktop from '../assets/imgs/gif/lTarefasDesktop.gif'
 import orvDesktop from '../assets/imgs/gif/orvDesktop.gif'
-import educaDesktop from '../assets/imgs/gif/educaDesktop.gif'
+import educaDesktop from '../assets/imgs/gif/educaDesktop.webp'
 import mabiDesktop from '../assets/imgs/gif/mabiDesktop.gif'
 
 
-import imc from '../assets/imgs/projetos/IMC.png'
-import imcDesktop from '../assets/imgs/gif/imcDesktop.gif'
-import lTarefas from '../assets/imgs/projetos/lTarefas.png'
-import orv from '../assets/imgs/projetos/ORV.png'
-import educaAI from '../assets/imgs/projetos/educaAI.png'
-import mabi from '../assets/imgs/projetos/mabi.png'
+import lContatos from '../assets/imgs/projetos/lContatos.jpg'
+import imc from '../assets/imgs/projetos/IMC.jpg'
+import lTarefas from '../assets/imgs/projetos/lTarefas.jpg'
+import orv from '../assets/imgs/projetos/ORV.jpg'
+import educaAI from '../assets/imgs/projetos/educaAI.jpg'
+import mabi from '../assets/imgs/projetos/mabi.jpg'
 
 
 
