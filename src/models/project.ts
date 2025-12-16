@@ -4,7 +4,7 @@ export interface project {
     context: 'Projeto Acadêmico' | 'Freelance';
     name: string;
     description: string;
-    stack?: string[];
+    stack: string[];
     role?: 'Frontend' | 'Backend' | 'FullStack'
     year?: number
     gitLink?: string;
